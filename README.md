@@ -1,26 +1,24 @@
 ### Hi there 👋
 
-### NOTE : This repo is archived until the end of Hacktoberfest
+### Welcome to my Github!
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=carlostbanks)](https://github.com/carlostbanks/github-readme-stats)
+I am a Full Stack Web Developer with a background in Mechanical Engineering. 
 
-
-First chioce for readme tamplets profile : 
-
-![banner](https://user-images.githubusercontent.com/23727056/87433896-78ae9700-c607-11ea-9ca6-9cdbe3f67998.jpg)
-
-The aim of this repository is to collect awesome READMEs that developers around the world are using on their own profiles to act as an inspiration for others.
-Video about [GitHub Profile README](https://twitter.com/github/status/1294348292130836482?s=20)
-
-Feel free to add your own or someone else's profile README if you find it super awesome! 
+- 💈 I’m currently working on ... My barbershop startup [CLYPR](https://www.clypr.co)
+- 💬 Let's chat about ... old/new cars, dogs, or anything related to basketball
+- 📫 How to reach me: ... Connect with me on [LinkedIn](www.linkedin.com/in/carlosbanks
 
 Don't forget to leave a ⭐ if you found this useful.
-Thankyou🎆
 
+Thank you 🤝
+
+[![Carlos's github stats](https://github-readme-stats.vercel.app/api?username=carlostbanks)](https://github.com/carlostbanks/github-readme-stats)
 
 
 <!--
 **carlostbanks/carlostbanks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![banner](https://user-images.githubusercontent.com/23727056/87433896-78ae9700-c607-11ea-9ca6-9cdbe3f67998.jpg)
 
 Here are some ideas to get you started:
 
