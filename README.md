@@ -12,7 +12,7 @@ Don't forget to leave a ⭐ if you found this useful.
 
 Thank you 🤝
 
-[![Carlos's github stats](https://github-readme-stats.vercel.app/api?username=carlostbanks)](https://github.com/carlostbanks/github-readme-stats)
+![Carlos's github stats](https://github-readme-stats.vercel.app/api?username=carlostbanks&hide=issues,stars)
 
 
 <!--
