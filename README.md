@@ -2,6 +2,9 @@
 
 ### NOTE : This repo is archived until the end of Hacktoberfest
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=carlostbanks)](https://github.com/carlostbanks/github-readme-stats)
+
+
 First chioce for readme tamplets profile : 
 
 ![banner](https://user-images.githubusercontent.com/23727056/87433896-78ae9700-c607-11ea-9ca6-9cdbe3f67998.jpg)
