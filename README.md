@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a **Full Stack Software Engineer** with a background i
 
 ### 🛠️ Tech I Work With
 - **Frontend:** React, Next.js, Tailwind CSS, TypeScript
-- **Backend:** Node.js, NestJS, Flask, Prisma, Express
+- **Backend:** Node.js, NestJS, Flask, GraphQL + Prisma, Express, Go
 - **Mobile:** Flutter, React Native
 - **Databases:** PostgreSQL, MongoDB
 - **Tools:** Git, Docker, Webpack, Vercel, Firebase
